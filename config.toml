@@ -1,0 +1,12 @@
+[github]
+owner="Qubik65536"
+repository="friend-links"
+
+[generation]
+label="active"
+sort_by_updated_time=true
+
+[[groups]]
+name="GitHub Friends"
+description="Friends from GitHub"
+label="github"
