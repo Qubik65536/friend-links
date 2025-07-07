@@ -11,6 +11,14 @@ labels:
 
           > If your site information changes, please directly modify the content of this issue.
 
+          ---
+
+          **🎉 恭喜，友链添加成功！**
+
+          稍后片刻刷新网页就可以看到您的链接。
+
+          > 如果您的站点信息发生了变动，请直接修改这个 issue 的内容。
+
   - name: 'suspend'
     labeled:
       issue:
@@ -19,6 +27,12 @@ labels:
 
           Please add our site to your friend links, and then comment below.
 
+          ---
+
+          **👋 请及时添加本站友链**
+
+          距离成功只剩一步之遥了，请把本站添加到您的友链中，然后在下方评论告知。
+
   - name: '404'
     labeled:
       issue:
@@ -26,6 +40,12 @@ labels:
           **⚠️ Sorry, your website is not accessible, and it has been removed from the friend links or the request has been rejected.**
 
           If you can confirm that your website is accessible, please comment below, and we will restore it after a manual review.
+
+          ---
+
+          **⚠️ 抱歉，您的网站打不开，现已下架/拒绝申请。**
+
+          如果您确认可以打开，请在下方评论告知，我们会在人工审核通过后恢复上架。
 
   - name: 'not-meeting-requirements'
     labeled:
@@ -39,3 +59,14 @@ labels:
           - Your website meets the requirements listed on above.
 
           If you can confirm that your website meets the requirements, please comment below, and we will restore it after a manual review.
+
+          ---
+
+          **⚠️ 抱歉，您的网站缺少必要信息/不符合要求，现已下架/拒绝申请。**
+
+          请确保：
+          - 您已填写 issue 模板中除了 `screenshot` 外的所有内容。
+          - issue 包含的的 JSON 格式正确，且 issue 内部结构未被修改。
+          - 您的网站符合以上列出的要求。
+
+          如果您确认您的网站符合要求，请在下方评论，我们将在人工审核后恢复您的网站。
