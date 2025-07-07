@@ -1,6 +1,6 @@
 name: Friend Link Request
 description: Add Your Website to Our Friend Links
-assignees: []
+assignees: ["Qubik65536"]
 body:
   - type: checkboxes
     id: checks
